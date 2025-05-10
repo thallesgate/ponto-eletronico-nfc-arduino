@@ -4,3 +4,6 @@ build/
 # Credenciais do ponto eletronico
 credentials.h
 arduino/ponto-nfc-esp8266/credentials.h
+
+# Vscode
+.vscode/
